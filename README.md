@@ -17,8 +17,8 @@
 ## 🛠 Technologies Used
 
 - **HTML5**
-- **CSS3**
--**Responsive Design Principles**
+- **CSS3**  
+-**Responsive Design Principles**  
 
 ## 🚀 What I Learned
 
