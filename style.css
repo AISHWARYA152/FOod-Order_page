@@ -1,0 +1,43 @@
+.bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.order-card {
+    background-color: #f6c56e;
+    height: 200px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 15px;
+    color: #323f4b;
+    text-align: left;
+
+}
+
+.order-card-title {
+    font-family: "Bree serif";
+    font-size: 30px;
+    color: #323f4b;
+
+}
+
+.order-card-discription {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+    color: #323f4b;
+    padding: 5px;
+
+}
+
+.order-card-button {
+    background-color: #ffffff;
+    width: 125px;
+    border-width: 0px;
+    border-radius: 5px;
+    height: 40px;
+    width: 150px;
+    color: #323f4b;
+}
