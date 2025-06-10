@@ -18,12 +18,12 @@
 
 - **HTML5**
 - **CSS3**  
--**Responsive Design Principles**  
+- **Responsive Design Principles**  
 
 ## 🚀 What I Learned
 
-🔹Structuring semantic HTML  
-🔹Styling with CSS Grid and Flexbox  
-🔹Creating clean, aesthetic UI layouts  
-🔹Enhancing user experience with subtle design elements  
+ 🔹Structuring semantic HTML  
+ 🔹Styling with CSS Grid and Flexbox  
+ 🔹Creating clean, aesthetic UI layouts  
+ 🔹Enhancing user experience with subtle design elements  
  
